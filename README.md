@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Mi Página Web Personal
+# Prueba de readme
 
 ![GitHub followers](https://img.shields.io/github/followers/alexlopex03?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/alexlopex03/alexlopex03.github.io?style=social)
@@ -34,7 +34,7 @@ Esta es mi página web personal donde comparto mis proyectos, blogs y más.
 
 - [Proyecto 1](enlace-a-tu-proyecto)
 - [Proyecto 2](enlace-a-tu-proyecto)
-# Hola, soy Alex López!
+# Hola (╯°□°）╯︵ ┻━┻
 
 ![GitHub followers](https://img.shields.io/github/followers/alexlopex03?style=social)
 ![Total Stars](https://img.shields.io/github/stars/alexlopex03?style=social)
@@ -49,7 +49,7 @@ Esta es mi página web personal donde comparto mis proyectos, blogs y más.
 
 ## Acerca de Mí
 
-Soy un desarrollador apasionado que trabaja principalmente con [tu lenguaje o tecnología favorita]. Aquí encontrarás algunos de mis proyectos y contribuciones.
+Soy un desarrollador apasionado que trabaja principalmente con [python]. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 ## Proyectos Destacados
 
