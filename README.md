@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlexLopEx03&show_icons=true&theme=radical)
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/AlexLopEx03/TU_REPOSITORIO.svg)
+
