@@ -34,3 +34,24 @@ Esta es mi página web personal donde comparto mis proyectos, blogs y más.
 
 - [Proyecto 1](enlace-a-tu-proyecto)
 - [Proyecto 2](enlace-a-tu-proyecto)
+# Hola, soy Alex López!
+
+![GitHub followers](https://img.shields.io/github/followers/alexlopex03?style=social)
+![Total Stars](https://img.shields.io/github/stars/alexlopex03?style=social)
+![Total Repositories](https://img.shields.io/github/rate/libraries/alexlopex03?style=social)
+![Total Commits](https://img.shields.io/github/commit-activity/m/alexlopex03?style=social)
+![Open Issues](https://img.shields.io/github/issues/alexlopex03?style=social)
+![Open Pull Requests](https://img.shields.io/github/issues-pr/alexlopex03?style=social)
+![Top Language](https://img.shields.io/github/languages/top/alexlopex03?style=social)
+![Monthly Contributions](https://img.shields.io/github/commit-activity/m/alexlopex03?style=social)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexlopex03&show_icons=true&theme=radical)
+
+## Acerca de Mí
+
+Soy un desarrollador apasionado que trabaja principalmente con [tu lenguaje o tecnología favorita]. Aquí encontrarás algunos de mis proyectos y contribuciones.
+
+## Proyectos Destacados
+
+- [Mi proyecto 1](enlace-a-tu-proyecto)
+- [Mi proyecto 2](enlace-a-tu-proyecto)
