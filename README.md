@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlexLopEx03&show_icons=true&theme=radical)
 ![GitHub Activity](https://img.shields.io/github/commit-activity/m/AlexLopEx03/TU_REPOSITORIO.svg)
-![Top Language](https://img.shields.io/github/languages/top/AlexLopEx03/1DAW.svg)
+![Top Language](https://img.shields.io/github/languages/top/AlexLopEx03/DAW.svg)
 
 
