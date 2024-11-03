@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 
 ## Descripción
 
-Esta es mi página web personal donde![ClapClappingEmojiGIF](https://github.com/user-attachments/assets/36779dca-ecfb-4917-99d8-e67506ad8042)
- comparto mis proyectos, blogs y más.
+🥸💰🫰💲💵💸💷💶💴
 
 ## Proyectos Destacados
 
