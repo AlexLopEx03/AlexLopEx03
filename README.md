@@ -34,12 +34,13 @@ Here are some ideas to get you started:
 
 ## Descripción
 
-Esta es mi página web personal donde comparto mis proyectos, blogs y más.
+Esta es mi página web personal donde![ClapClappingEmojiGIF](https://github.com/user-attachments/assets/36779dca-ecfb-4917-99d8-e67506ad8042)
+ comparto mis proyectos, blogs y más.
 
 ## Proyectos Destacados
 
-- [Proyecto 1](enlace-a-tu-proyecto)
-- [Proyecto 2](enlace-a-tu-proyecto)
+- [Proyecto 1](enlace-proyecto)
+- [Proyecto 2](enlace-proyecto)
 # Hola (╯°□°）╯︵ ┻━┻
 
 ![GitHub followers](https://img.shields.io/github/followers/alexlopex03?style=social)
@@ -55,7 +56,7 @@ Esta es mi página web personal donde comparto mis proyectos, blogs y más.
 
 ## Acerca de Mí
 
-Soy un desarrollador apasionado que trabaja principalmente con [python]. Aquí encontrarás algunos de mis proyectos y contribuciones.
+- Texto de ejemplo
 
 ## Proyectos Destacados
 
