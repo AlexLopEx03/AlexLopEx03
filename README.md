@@ -1,6 +1,8 @@
 # Readme provisional💻
-
-
+<div align="center">
+  <h1>Título centrado</h1>
+  <p>Este es un párrafo centrado.</p>
+</div>
 
 ┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿    (ヘ･_･)ヘ┳━┳
 
