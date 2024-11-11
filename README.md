@@ -1,7 +1,9 @@
-# Readme provisional💻
+# Readme de prueba 💻
+1 Repositorio público y 2 privados
+<!--
 <div align="center">
   <h1>Título centrado</h1>
-  <p>Este es un párrafo centrado.</p>
+  <p>Párrafo centrado.</p>
 </div>
 
 ┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿    (ヘ･_･)ヘ┳━┳
@@ -56,8 +58,9 @@
 ![Top Language](https://img.shields.io/github/languages/top/alexlopex03/alexlopex03.github.io.svg)
 ![GitHub Activity](https://img.shields.io/github/commit-activity/m/alexlopex03/alexlopex03.github.io.svg)
 
-<!--
-**AlexLopEx03/AlexLopEx03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+<!-- **AlexLopEx03/AlexLopEx03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -69,4 +72,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
